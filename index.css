@@ -1,0 +1,6 @@
+table {
+    caption-side: bottom;
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid;
+}
